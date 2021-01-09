@@ -1,6 +1,6 @@
-# Delivery App Mobile
+# Food Master Web
 
-Food delivery app built with React
+Food Master Web built with React
 
 ## Connected Projects
 - Mobile: https://github.com/BaneDev-star/foodmaster
